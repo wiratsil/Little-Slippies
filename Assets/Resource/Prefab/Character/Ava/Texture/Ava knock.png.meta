@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: f0302b65a7748094fb2cee5f64695794
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2492980097669105935
+    second: Ava knock_0
+  - first:
+      213: -3615842094317532540
+    second: Ava knock_1
+  - first:
+      213: 5365048054626331245
+    second: Ava knock_2
+  - first:
+      213: 368521822782641766
+    second: Ava knock_3
+  - first:
+      213: 6956023730541780442
+    second: Ava knock_4
+  - first:
+      213: -921433419107633166
+    second: Ava knock_5
+  - first:
+      213: -160355347978696804
+    second: Ava knock_6
+  - first:
+      213: 3627750101138614200
+    second: Ava knock_7
+  - first:
+      213: -6619934423215888019
+    second: Ava knock_8
+  - first:
+      213: 4206962521756926436
+    second: Ava knock_9
+  - first:
+      213: -1014609182395500496
+    second: Ava knock_10
+  - first:
+      213: 1165092410083399727
+    second: Ava knock_11
+  - first:
+      213: -4394940422893559410
+    second: Ava knock_12
+  - first:
+      213: -8527867669374583034
+    second: Ava knock_13
+  - first:
+      213: 6655005721404521293
+    second: Ava knock_14
+  - first:
+      213: 4651320230660606433
+    second: Ava knock_15
+  - first:
+      213: 1530192590094593379
+    second: Ava knock_16
+  - first:
+      213: -6108526626439229387
+    second: Ava knock_17
+  - first:
+      213: -2180217051873282131
+    second: Ava knock_18
+  - first:
+      213: 3673020404945652018
+    second: Ava knock_19
+  - first:
+      213: 7596563422766062888
+    second: Ava knock_20
+  - first:
+      213: -6095002222055581599
+    second: Ava knock_21
+  - first:
+      213: -1972093035203916768
+    second: Ava knock_22
+  - first:
+      213: -5101220128612245465
+    second: Ava knock_23
+  - first:
+      213: -3222459612281901862
+    second: Ava knock_24
+  - first:
+      213: 326411298867360395
+    second: Ava knock_25
+  - first:
+      213: 1447438318346124527
+    second: Ava knock_26
+  - first:
+      213: -2614409352904083174
+    second: Ava knock_27
+  - first:
+      213: 3602483502982391228
+    second: Ava knock_28
+  - first:
+      213: -5723729144100794229
+    second: Ava knock_29
+  - first:
+      213: -1448900215505013134
+    second: Ava knock_30
+  - first:
+      213: -6369872564447113701
+    second: Ava knock_31
+  - first:
+      213: -7727371557964953458
+    second: Ava knock_32
+  - first:
+      213: -7107234233588840036
+    second: Ava knock_33
+  - first:
+      213: 3070088932537175359
+    second: Ava knock_34
+  - first:
+      213: 8607793339427067205
+    second: Ava knock_35
+  - first:
+      213: -2614858538811784146
+    second: Ava knock_36
+  - first:
+      213: 8007333031574946078
+    second: Ava knock_37
+  - first:
+      213: 3273541725381355867
+    second: Ava knock_38
+  - first:
+      213: -2008038426143552682
+    second: Ava knock_39
+  - first:
+      213: 2501132939850523488
+    second: Ava knock_40
+  - first:
+      213: 2886515324341597408
+    second: Ava knock_41
+  - first:
+      213: 3549761554852356800
+    second: Ava knock_42
+  - first:
+      213: 259269020199689366
+    second: Ava knock_43
+  - first:
+      213: 1566329288314120340
+    second: Ava knock_44
+  - first:
+      213: 7198104366065638113
+    second: Ava knock_45
+  - first:
+      213: 7363897888536184517
+    second: Ava knock_46
+  - first:
+      213: 765301254114437910
+    second: Ava knock_47
+  - first:
+      213: -1675591813961985578
+    second: Ava knock_48
+  - first:
+      213: -3329680831376074133
+    second: Ava knock_49
+  - first:
+      213: 4609407871279003839
+    second: Ava knock_50
+  - first:
+      213: -3020395361211355568
+    second: Ava knock_51
+  - first:
+      213: -7573270582563506317
+    second: Ava knock_52
+  - first:
+      213: 2336472369607083814
+    second: Ava knock_53
+  - first:
+      213: 7315523825991494413
+    second: Ava knock_54
+  - first:
+      213: -4027440779706338252
+    second: Ava knock_55
+  - first:
+      213: -7986424090981579042
+    second: Ava knock_56
+  - first:
+      213: -8139060524155564559
+    second: Ava knock_57
+  - first:
+      213: -7392513404267682190
+    second: Ava knock_58
+  - first:
+      213: 1359353289491571341
+    second: Ava knock_59
+  - first:
+      213: -283095343466233715
+    second: Ava knock_60
+  - first:
+      213: 4804686342712857358
+    second: Ava knock_61
+  - first:
+      213: -943052111655422299
+    second: Ava knock_62
+  - first:
+      213: 5950686340060186529
+    second: Ava knock_63
+  - first:
+      213: -6709233413219561378
+    second: Ava knock_64
+  - first:
+      213: 8149057016886837377
+    second: Ava knock_65
+  - first:
+      213: -3772527501459163354
+    second: Ava knock_66
+  - first:
+      213: 5375447038953443609
+    second: Ava knock_67
+  - first:
+      213: 7251982921916536798
+    second: Ava knock_68
+  - first:
+      213: -5443961939955484454
+    second: Ava knock_69
+  - first:
+      213: -4256846960744266984
+    second: Ava knock_70
+  - first:
+      213: -417535027366194986
+    second: Ava knock_71
+  - first:
+      213: -5915249628469276002
+    second: Ava knock_72
+  - first:
+      213: 5595455513772726760
+    second: Ava knock_73
+  - first:
+      213: 5707630037493325353
+    second: Ava knock_74
+  - first:
+      213: 2319116083265234714
+    second: Ava knock_75
+  - first:
+      213: 1589542716110422646
+    second: Ava knock_76
+  - first:
+      213: 8936989451986677676
+    second: Ava knock_77
+  - first:
+      213: 6455553798103906917
+    second: Ava knock_78
+  - first:
+      213: -8740306424312702456
+    second: Ava knock_79
+  - first:
+      213: -2922332861111339482
+    second: Ava knock_80
+  - first:
+      213: 5117556712198962605
+    second: Ava knock_81
+  - first:
+      213: -5310631233158743649
+    second: Ava knock_82
+  - first:
+      213: -1453724300085481920
+    second: Ava knock_83
+  - first:
+      213: -6307332245445671431
+    second: Ava knock_84
+  - first:
+      213: 7786433895997582345
+    second: Ava knock_85
+  - first:
+      213: 9135172714731531461
+    second: Ava knock_86
+  - first:
+      213: 4984946904885330242
+    second: Ava knock_87
+  - first:
+      213: 4611289425386827256
+    second: Ava knock_88
+  - first:
+      213: -6403278388601634904
+    second: Ava knock_89
+  - first:
+      213: -5715059109246634254
+    second: Ava knock_90
+  - first:
+      213: -2471386084855118234
+    second: Ava knock_91
+  - first:
+      213: -5199893431241124739
+    second: Ava knock_92
+  - first:
+      213: -8376126204281849905
+    second: Ava knock_93
+  - first:
+      213: 1846200282356045676
+    second: Ava knock_94
+  - first:
+      213: 4427628134629314829
+    second: Ava knock_95
+  - first:
+      213: -1767258857077086129
+    second: Ava knock_96
+  - first:
+      213: -4669053515157913878
+    second: Ava knock_97
+  - first:
+      213: -1410426796649423630
+    second: Ava knock_98
+  - first:
+      213: -1442420389015739024
+    second: Ava knock_99
+  - first:
+      213: 7706354875927312026
+    second: Ava knock_100
+  - first:
+      213: -9180933873875823100
+    second: Ava knock_101
+  - first:
+      213: -8548534495966578509
+    second: Ava knock_102
+  - first:
+      213: -3884945968851914664
+    second: Ava knock_103
+  - first:
+      213: -77867009017205063
+    second: Ava knock_104
+  - first:
+      213: 7403149879252446678
+    second: Ava knock_105
+  - first:
+      213: 5427280398749430344
+    second: Ava knock_106
+  - first:
+      213: 8962679691968014599
+    second: Ava knock_107
+  - first:
+      213: -406889224531455577
+    second: Ava knock_108
+  - first:
+      213: 2835601816469110943
+    second: Ava knock_109
+  - first:
+      213: 8200479652398915482
+    second: Ava knock_110
+  - first:
+      213: 4633522711963931236
+    second: Ava knock_111
+  - first:
+      213: 3945105882398767052
+    second: Ava knock_112
+  - first:
+      213: -7331377499723104903
+    second: Ava knock_113
+  - first:
+      213: -8309694438602729416
+    second: Ava knock_114
+  - first:
+      213: -6632995080246229957
+    second: Ava knock_115
+  - first:
+      213: 810737044583563769
+    second: Ava knock_116
+  - first:
+      213: -2389345957955005036
+    second: Ava knock_117
+  - first:
+      213: -2094704627587986253
+    second: Ava knock_118
+  - first:
+      213: -8334340121907253384
+    second: Ava knock_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ava knock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f098fa1c038d89220800000000000000
+      internalID: 2492980097669105935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8c44d5c2f1ddc0800000000000000
+      internalID: -3615842094317532540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a27eac7ca747a40800000000000000
+      internalID: 5365048054626331245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66650f235a04d1500800000000000000
+      internalID: 368521822782641766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add51247ab2c88060800000000000000
+      internalID: 6956023730541780442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f77ae1ff296633f0800000000000000
+      internalID: -921433419107633166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9745ed19ad46cdf0800000000000000
+      internalID: -160355347978696804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b721401f7b585230800000000000000
+      internalID: 3627750101138614200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6926db47b44124a0800000000000000
+      internalID: -6619934423215888019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e104b4cf12226a30800000000000000
+      internalID: 4206962521756926436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038777103526be1f0800000000000000
+      internalID: -1014609182395500496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f285681cf5d3b2010800000000000000
+      internalID: 1165092410083399727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ac6488f80203c0800000000000000
+      internalID: -4394940422893559410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb36b898de6a980800000000000000
+      internalID: -8527867669374583034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3282a1745b5c50800000000000000
+      internalID: 6655005721404521293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_15
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e90d152b1fcc8040800000000000000
+      internalID: 4651320230660606433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_16
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36de58aad065c3510800000000000000
+      internalID: 1530192590094593379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_17
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530131ac5672a3ba0800000000000000
+      internalID: -6108526626439229387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_18
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7f7d184205eb1e0800000000000000
+      internalID: -2180217051873282131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_19
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 544
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2390c89099039f230800000000000000
+      internalID: 3673020404945652018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d52b74f2a6c6960800000000000000
+      internalID: 7596563422766062888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168192195c33a6ba0800000000000000
+      internalID: -6095002222055581599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c06a445d7b1a4e0800000000000000
+      internalID: -1972093035203916768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720aef80253d439b0800000000000000
+      internalID: -5101220128612245465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adce4e25e068743d0800000000000000
+      internalID: -3222459612281901862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_25
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b9afc855a78400800000000000000
+      internalID: 326411298867360395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3f4f4b75561410800000000000000
+      internalID: 1447438318346124527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_27
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1971b69b80c7bbd0800000000000000
+      internalID: -2614409352904083174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb56870c8a79ef130800000000000000
+      internalID: 3602483502982391228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_29
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1088
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8052574baa3190b0800000000000000
+      internalID: -5723729144100794229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27636db3ee874ebe0800000000000000
+      internalID: -1448900215505013134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8f93d6aaa997a0800000000000000
+      internalID: -6369872564447113701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88ca08628cd2c490800000000000000
+      internalID: -7727371557964953458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99017bce180e5d90800000000000000
+      internalID: -7107234233588840036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8cbc3e952b9a20800000000000000
+      internalID: 3070088932537175359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5451688af66057770800000000000000
+      internalID: 8607793339427067205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e240a38530826bbd0800000000000000
+      internalID: -2614858538811784146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_37
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c641b7f2cf1f60800000000000000
+      internalID: 8007333031574946078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_38
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5966c2fad4fd6d20800000000000000
+      internalID: 3273541725381355867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_39
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1632
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b0162c0b30224e0800000000000000
+      internalID: -2008038426143552682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a1df382fc5b220800000000000000
+      internalID: 2501132939850523488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43a12e466fe0820800000000000000
+      internalID: 2886515324341597408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22052a359434130800000000000000
+      internalID: 3549761554852356800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_43
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c144adccb199300800000000000000
+      internalID: 259269020199689366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_44
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e04f5038bcb510800000000000000
+      internalID: 1566329288314120340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_45
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead783a8cdc4e360800000000000000
+      internalID: 7198104366065638113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6c2703d12d13660800000000000000
+      internalID: 7363897888536184517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61be6a59f65ee9a00800000000000000
+      internalID: 765301254114437910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_48
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d15e347f1a1fb8e0800000000000000
+      internalID: -1675591813961985578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_49
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2176
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ad66edce89ac1d0800000000000000
+      internalID: -3329680831376074133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb879788908e7ff30800000000000000
+      internalID: 4609407871279003839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e62c5fb666516d0800000000000000
+      internalID: -3020395361211355568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_52
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f262b78656e690800000000000000
+      internalID: -7573270582563506317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62702f1bd31dc6020800000000000000
+      internalID: 2336472369607083814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b21221926f58560800000000000000
+      internalID: 7315523825991494413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_55
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4347eabf2f7ab18c0800000000000000
+      internalID: -4027440779706338252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_56
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6cb676a958a2190800000000000000
+      internalID: -7986424090981579042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_57
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd8d4c639f3c0f80800000000000000
+      internalID: -8139060524155564559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_58
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276af4dd934886990800000000000000
+      internalID: -7392513404267682190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_59
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2720
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8267685d946dd210800000000000000
+      internalID: 1359353289491571341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c027f84e321cf0800000000000000
+      internalID: -283095343466233715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03129ab5ccada240800000000000000
+      internalID: 4804686342712857358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b818d91b99e2f0800000000000000
+      internalID: -943052111655422299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78e0db2b5159250800000000000000
+      internalID: 5950686340060186529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50ddd9f1c304e2a0800000000000000
+      internalID: -6709233413219561378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c1f96e24471170800000000000000
+      internalID: 8149057016886837377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277222a93a45abc0800000000000000
+      internalID: -3772527501459163354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_67
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911deb10a9c699a40800000000000000
+      internalID: 5375447038953443609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d80a7b0834a460800000000000000
+      internalID: 7251982921916536798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_69
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3264
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8f43e75792374b0800000000000000
+      internalID: -5443961939955484454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81303a13e34ace4c0800000000000000
+      internalID: -4256846960744266984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01e84da1e943af0800000000000000
+      internalID: -417535027366194986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_72
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d351adcfc8eda0800000000000000
+      internalID: -5915249628469276002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_73
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e99ceec42d07ad40800000000000000
+      internalID: 5595455513772726760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_74
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e932e5743953f40800000000000000
+      internalID: 5707630037493325353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_75
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a176bef5ac72f2020800000000000000
+      internalID: 2319116083265234714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_76
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6724215bda03f0610800000000000000
+      internalID: 1589542716110422646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_77
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf241f6e80960c70800000000000000
+      internalID: 8936989451986677676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_78
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a3864f9fbb69950800000000000000
+      internalID: 6455553798103906917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_79
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3808
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ad6ce7d9134b680800000000000000
+      internalID: -8740306424312702456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f10afeb9c177d0800000000000000
+      internalID: -2922332861111339482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadf88c37b6350740800000000000000
+      internalID: 5117556712198962605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f997a76c709dc46b0800000000000000
+      internalID: -5310631233158743649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2d04837553dbe0800000000000000
+      internalID: -1453724300085481920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_84
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f508dd8dbad778a0800000000000000
+      internalID: -6307332245445671431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_85
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2ff5cf58fe0c60800000000000000
+      internalID: 7786433895997582345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_86
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce96f0f27a6ce70800000000000000
+      internalID: 9135172714731531461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_87
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2418fd17cc61e2540800000000000000
+      internalID: 4984946904885330242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_88
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd62bcfc479eff30800000000000000
+      internalID: 4611289425386827256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_89
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4352
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb6794b3cf227a0800000000000000
+      internalID: -6403278388601634904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f67ef2150800b0b0800000000000000
+      internalID: -5715059109246634254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6660e55237fd3bdd0800000000000000
+      internalID: -2471386084855118234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d745cf8797446d7b0800000000000000
+      internalID: -5199893431241124739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc770f7889502cb80800000000000000
+      internalID: -8376126204281849905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67de0e00650f9910800000000000000
+      internalID: 1846200282356045676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_95
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d011b127458127d30800000000000000
+      internalID: 4427628134629314829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_96
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e1cdce6f6977e0800000000000000
+      internalID: -1767258857077086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_97
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee39bfc090343fb0800000000000000
+      internalID: -4669053515157913878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_98
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd40c1d482d6ce0800000000000000
+      internalID: -1410426796649423630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_99
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4896
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075afe76c4e7bfbe0800000000000000
+      internalID: -1442420389015739024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a963fbcfde872fa60800000000000000
+      internalID: 7706354875927312026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406d74dc845c69080800000000000000
+      internalID: -9180933873875823100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_102
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b83db10b218d5980800000000000000
+      internalID: -8548534495966578509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_103
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850fef28936e51ac0800000000000000
+      internalID: -3884945968851914664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_104
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beaecb2e5c5beef0800000000000000
+      internalID: -77867009017205063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_105
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd61d377954db660800000000000000
+      internalID: 7403149879252446678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_106
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84276e784c2915b40800000000000000
+      internalID: 5427280398749430344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_107
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7096c5b81b5d16c70800000000000000
+      internalID: 8962679691968014599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_108
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15ed4f7607a5af0800000000000000
+      internalID: -406889224531455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_109
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5440
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90081314d41a5720800000000000000
+      internalID: 2835601816469110943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f5e0dbbc4fdc170800000000000000
+      internalID: 8200479652398915482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46290596b549d4040800000000000000
+      internalID: 4633522711963931236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_112
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7bea1e5e4dfb630800000000000000
+      internalID: 3945105882398767052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_113
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d76bed107b14a90800000000000000
+      internalID: -7331377499723104903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_114
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389b0b4fe80eac80800000000000000
+      internalID: -8309694438602729416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_115
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34820d1e1ed2f3a0800000000000000
+      internalID: -6632995080246229957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_116
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f147aceb01504b00800000000000000
+      internalID: 810737044583563769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_117
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4959392b28657ded0800000000000000
+      internalID: -2389345957955005036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_118
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc404b4d3d1ee2e0800000000000000
+      internalID: -2094704627587986253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ava knock_119
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5984
+        width: 500
+        height: 544
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fae6cf0d9765c80800000000000000
+      internalID: -8334340121907253384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Cha_Ava
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

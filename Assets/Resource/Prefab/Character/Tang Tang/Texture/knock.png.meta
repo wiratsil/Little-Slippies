@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: 5d2b2282439c72b478682e193a98b810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3768977753069516458
+    second: knock_0
+  - first:
+      213: 6972641552372687164
+    second: knock_1
+  - first:
+      213: -8166013414969539424
+    second: knock_2
+  - first:
+      213: -3593153728956200629
+    second: knock_3
+  - first:
+      213: 8356536706481814973
+    second: knock_4
+  - first:
+      213: -6968699987300075338
+    second: knock_5
+  - first:
+      213: -5016929892441797975
+    second: knock_6
+  - first:
+      213: 7995963108738044525
+    second: knock_7
+  - first:
+      213: -8987198210200021328
+    second: knock_8
+  - first:
+      213: -3951742921136172131
+    second: knock_9
+  - first:
+      213: 5865012739001146966
+    second: knock_10
+  - first:
+      213: 5944612652490137091
+    second: knock_11
+  - first:
+      213: -6115107923379432974
+    second: knock_12
+  - first:
+      213: -3287472274144135146
+    second: knock_13
+  - first:
+      213: -6354710977581369762
+    second: knock_14
+  - first:
+      213: -3198971430945337673
+    second: knock_15
+  - first:
+      213: 5281424788113110424
+    second: knock_16
+  - first:
+      213: -4221994492111070589
+    second: knock_17
+  - first:
+      213: 5872772836801543452
+    second: knock_18
+  - first:
+      213: 8795913433972174292
+    second: knock_19
+  - first:
+      213: 1887029940497681527
+    second: knock_20
+  - first:
+      213: 1116068639200092641
+    second: knock_21
+  - first:
+      213: 3071632222256596073
+    second: knock_22
+  - first:
+      213: 5985864431072703761
+    second: knock_23
+  - first:
+      213: 2098850591192552099
+    second: knock_24
+  - first:
+      213: 1827221952309673074
+    second: knock_25
+  - first:
+      213: -789951498027477164
+    second: knock_26
+  - first:
+      213: -140742506418511522
+    second: knock_27
+  - first:
+      213: 2313065868207411546
+    second: knock_28
+  - first:
+      213: -2476662143994502787
+    second: knock_29
+  - first:
+      213: -1209529525956554740
+    second: knock_30
+  - first:
+      213: -8889531365038902048
+    second: knock_31
+  - first:
+      213: -9030676036824703551
+    second: knock_32
+  - first:
+      213: 3503703354501075449
+    second: knock_33
+  - first:
+      213: 4374858037176059042
+    second: knock_34
+  - first:
+      213: -5594341549303563315
+    second: knock_35
+  - first:
+      213: -1323963956710101181
+    second: knock_36
+  - first:
+      213: 4938596958540548198
+    second: knock_37
+  - first:
+      213: -1394946726878281551
+    second: knock_38
+  - first:
+      213: 4927469587309499997
+    second: knock_39
+  - first:
+      213: 4661398860659898595
+    second: knock_40
+  - first:
+      213: 1089922861723633454
+    second: knock_41
+  - first:
+      213: 8122449232847509909
+    second: knock_42
+  - first:
+      213: -8723181506114975692
+    second: knock_43
+  - first:
+      213: -6274463010613518165
+    second: knock_44
+  - first:
+      213: 4029272442663285210
+    second: knock_45
+  - first:
+      213: -8211991377250424003
+    second: knock_46
+  - first:
+      213: -5488980879885361671
+    second: knock_47
+  - first:
+      213: -766243616951542500
+    second: knock_48
+  - first:
+      213: 3565768421179743411
+    second: knock_49
+  - first:
+      213: -3250153952487393278
+    second: knock_50
+  - first:
+      213: -5295872866202186158
+    second: knock_51
+  - first:
+      213: -4826454987559334512
+    second: knock_52
+  - first:
+      213: -5202294270466356072
+    second: knock_53
+  - first:
+      213: -6618927300316451592
+    second: knock_54
+  - first:
+      213: 3990939695702042548
+    second: knock_55
+  - first:
+      213: -449546427516807246
+    second: knock_56
+  - first:
+      213: 117703366648327083
+    second: knock_57
+  - first:
+      213: 1782041290735764439
+    second: knock_58
+  - first:
+      213: 3024592083468923228
+    second: knock_59
+  - first:
+      213: 2303531104926627884
+    second: knock_60
+  - first:
+      213: 243541312730762473
+    second: knock_61
+  - first:
+      213: 4946535836599885575
+    second: knock_62
+  - first:
+      213: -1997220769655079114
+    second: knock_63
+  - first:
+      213: -3352195353811730830
+    second: knock_64
+  - first:
+      213: -6776534451598447638
+    second: knock_65
+  - first:
+      213: 6269872440341170067
+    second: knock_66
+  - first:
+      213: 2783905146986396825
+    second: knock_67
+  - first:
+      213: -8247325868284879527
+    second: knock_68
+  - first:
+      213: -3437188295192826570
+    second: knock_69
+  - first:
+      213: 8361426260873454221
+    second: knock_70
+  - first:
+      213: -7430978035496941625
+    second: knock_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65901f5d3b6e1bbc0800000000000000
+      internalID: -3768977753069516458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c316d4b9c8cc3c060800000000000000
+      internalID: 6972641552372687164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48aa1801e7cae80800000000000000
+      internalID: -8166013414969539424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49023a88bd822ec0800000000000000
+      internalID: -3593153728956200629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd7c561cd168f370800000000000000
+      internalID: 8356536706481814973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8b5b688443a4f90800000000000000
+      internalID: -6968699987300075338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac7f9f7d8406ab0800000000000000
+      internalID: -5016929892441797975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62957d351e57fe60800000000000000
+      internalID: 7995963108738044525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6500318de074380800000000000000
+      internalID: -8987198210200021328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93930e10c69829c0800000000000000
+      internalID: -3951742921136172131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65edd4f0306b46150800000000000000
+      internalID: 5865012739001146966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e97f626b18f7250800000000000000
+      internalID: 5944612652490137091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1dacf2eb5c22ba0800000000000000
+      internalID: -6115107923379432974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61871ba626d8062d0800000000000000
+      internalID: -3287472274144135146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56bcfad8088fc7a0800000000000000
+      internalID: -6354710977581369762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be41e3be68fa93d0800000000000000
+      internalID: -3198971430945337673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895bc63dcd36b4940800000000000000
+      internalID: 5281424788113110424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a5016e0667865c0800000000000000
+      internalID: -4221994492111070589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d7e10a7c7408150800000000000000
+      internalID: 5872772836801543452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6ffa5aac511a70800000000000000
+      internalID: 8795913433972174292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c04e3abb3103a10800000000000000
+      internalID: 1887029940497681527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a970a3821d7f00800000000000000
+      internalID: 1116068639200092641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9648f306b31a0aa20800000000000000
+      internalID: 3071632222256596073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115fbbf4cff021350800000000000000
+      internalID: 5985864431072703761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a296a41e7d902d10800000000000000
+      internalID: 2098850591192552099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb6314fa89b5910800000000000000
+      internalID: 1827221952309673074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457d8424c478905f0800000000000000
+      internalID: -789951498027477164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516024af6bfb0ef0800000000000000
+      internalID: -140742506418511522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a515598e629a91020800000000000000
+      internalID: 2313065868207411546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ec86e6e021add0800000000000000
+      internalID: -2476662143994502787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005304fd43e63fe0800000000000000
+      internalID: -1209529525956554740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b92f725a02a480800000000000000
+      internalID: -8889531365038902048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd5e67bdf79ca280800000000000000
+      internalID: -9030676036824703551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1916333a7af9030800000000000000
+      internalID: 3503703354501075449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a444a0b43e96bc30800000000000000
+      internalID: 4374858037176059042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb7d814008ec52b0800000000000000
+      internalID: -5594341549303563315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fafd8cbc550ade0800000000000000
+      internalID: -1323963956710101181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_37
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66842aa94cb698440800000000000000
+      internalID: 4938596958540548198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_38
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b083d7b75724ace0800000000000000
+      internalID: -1394946726878281551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_39
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569f199b73e16440800000000000000
+      internalID: 4927469587309499997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e83b0e019d90b040800000000000000
+      internalID: 4661398860659898595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e274d9d611f202f00800000000000000
+      internalID: 1089922861723633454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_42
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599150eea8cb8b070800000000000000
+      internalID: 8122449232847509909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_43
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43882c833a801f680800000000000000
+      internalID: -8723181506114975692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ad08a221ace8a0800000000000000
+      internalID: -6274463010613518165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1373840f9dae730800000000000000
+      internalID: 4029272442663285210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bea64f955290e80800000000000000
+      internalID: -8211991377250424003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_47
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd958bb8f833d3b0800000000000000
+      internalID: -5488980879885361671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d51387d71cd55f0800000000000000
+      internalID: -766243616951542500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc59bf9c772c7130800000000000000
+      internalID: 3565768421179743411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20838a4433225e2d0800000000000000
+      internalID: -3250153952487393278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e836adfa74186b0800000000000000
+      internalID: -5295872866202186158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d0d1ea2ccf40db0800000000000000
+      internalID: -4826454987559334512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_53
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8dc78cecbdc7b0800000000000000
+      internalID: -5202294270466356072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fca08e50b8d424a0800000000000000
+      internalID: -6618927300316451592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b76352228aa26730800000000000000
+      internalID: 3990939695702042548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b790dde7e3e2c9f0800000000000000
+      internalID: -449546427516807246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babe0fd969a22a100800000000000000
+      internalID: 117703366648327083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3426dbc151bb810800000000000000
+      internalID: 1782041290735764439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_59
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51bf95997289f920800000000000000
+      internalID: 3024592083468923228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_60
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f636d559c7ff10800000000000000
+      internalID: 2303531104926627884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_61
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec0379988b316300800000000000000
+      internalID: 243541312730762473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_62
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f9641b220a5a440800000000000000
+      internalID: 4946535836599885575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_63
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f3daeaa427844e0800000000000000
+      internalID: -1997220769655079114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e365e161c9a71d0800000000000000
+      internalID: -3352195353811730830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2744e1d9e4f1a0800000000000000
+      internalID: -6776534451598447638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_66
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970c89e3cf030750800000000000000
+      internalID: 6269872440341170067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_67
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c718e3bfa62a620800000000000000
+      internalID: 2783905146986396825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5df9a1dc9b8d80800000000000000
+      internalID: -8247325868284879527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_69
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da6eed477ac40d0800000000000000
+      internalID: -3437188295192826570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_70
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822cfe22e0c90470800000000000000
+      internalID: 8361426260873454221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock_71
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7897409dcdfd890800000000000000
+      internalID: -7430978035496941625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Cha_Tang
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

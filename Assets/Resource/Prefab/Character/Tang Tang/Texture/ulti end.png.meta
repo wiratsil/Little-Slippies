@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: 0c694386679a53e43b0076e55adc89ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7739107848943989376
+    second: ulti end_0
+  - first:
+      213: 8234677995571286883
+    second: ulti end_1
+  - first:
+      213: -4642532894042379870
+    second: ulti end_2
+  - first:
+      213: 8510272324531624373
+    second: ulti end_3
+  - first:
+      213: -4300201688283944095
+    second: ulti end_4
+  - first:
+      213: 1286547548986058926
+    second: ulti end_5
+  - first:
+      213: 6040951957037646880
+    second: ulti end_6
+  - first:
+      213: -8395107344254023243
+    second: ulti end_7
+  - first:
+      213: -8748671154947768086
+    second: ulti end_8
+  - first:
+      213: -4575587469470215827
+    second: ulti end_9
+  - first:
+      213: -3370929350938317545
+    second: ulti end_10
+  - first:
+      213: 5323837172465195011
+    second: ulti end_11
+  - first:
+      213: -7800116984469454196
+    second: ulti end_12
+  - first:
+      213: 5005858056162087593
+    second: ulti end_13
+  - first:
+      213: 1082516521748981885
+    second: ulti end_14
+  - first:
+      213: -6061785434748214569
+    second: ulti end_15
+  - first:
+      213: -7680964259838109849
+    second: ulti end_16
+  - first:
+      213: 4135614903022436565
+    second: ulti end_17
+  - first:
+      213: 4278452894979883231
+    second: ulti end_18
+  - first:
+      213: -6072155460756728554
+    second: ulti end_19
+  - first:
+      213: -7155294647630875453
+    second: ulti end_20
+  - first:
+      213: -4137801953101997123
+    second: ulti end_21
+  - first:
+      213: 3621281249467925183
+    second: ulti end_22
+  - first:
+      213: 8905430920194503451
+    second: ulti end_23
+  - first:
+      213: 5441192351362122865
+    second: ulti end_24
+  - first:
+      213: -6070997265719671095
+    second: ulti end_25
+  - first:
+      213: 8080742712240095812
+    second: ulti end_26
+  - first:
+      213: -1031893202037046691
+    second: ulti end_27
+  - first:
+      213: 7525838463464154717
+    second: ulti end_28
+  - first:
+      213: -8057799010350322521
+    second: ulti end_29
+  - first:
+      213: 5870260213438811051
+    second: ulti end_30
+  - first:
+      213: 4511175472396004114
+    second: ulti end_31
+  - first:
+      213: -4575880931057939939
+    second: ulti end_32
+  - first:
+      213: -2556909319548725763
+    second: ulti end_33
+  - first:
+      213: 9170812667268545431
+    second: ulti end_34
+  - first:
+      213: -932597619671976958
+    second: ulti end_35
+  - first:
+      213: -3013971007673783970
+    second: ulti end_36
+  - first:
+      213: 8426807782696098506
+    second: ulti end_37
+  - first:
+      213: 1985013613760929765
+    second: ulti end_38
+  - first:
+      213: -8847643088899154594
+    second: ulti end_39
+  - first:
+      213: -7218059688319827340
+    second: ulti end_40
+  - first:
+      213: 1503051051656381488
+    second: ulti end_41
+  - first:
+      213: 1432381168330876065
+    second: ulti end_42
+  - first:
+      213: 4834731286924473988
+    second: ulti end_43
+  - first:
+      213: -4193928991460012081
+    second: ulti end_44
+  - first:
+      213: 4522543068797647647
+    second: ulti end_45
+  - first:
+      213: 538277493607370472
+    second: ulti end_46
+  - first:
+      213: -4408932734209346835
+    second: ulti end_47
+  - first:
+      213: 508934233941267311
+    second: ulti end_48
+  - first:
+      213: -2593987639416230595
+    second: ulti end_49
+  - first:
+      213: 7366981109243039221
+    second: ulti end_50
+  - first:
+      213: -2961600145368357629
+    second: ulti end_51
+  - first:
+      213: -7103043112834143687
+    second: ulti end_52
+  - first:
+      213: 2150218939299819446
+    second: ulti end_53
+  - first:
+      213: 3167405257097837142
+    second: ulti end_54
+  - first:
+      213: -2417325341145023329
+    second: ulti end_55
+  - first:
+      213: 6787248548555901188
+    second: ulti end_56
+  - first:
+      213: -7191030141100880530
+    second: ulti end_57
+  - first:
+      213: 6115022614660436155
+    second: ulti end_58
+  - first:
+      213: -8270279986683353970
+    second: ulti end_59
+  - first:
+      213: 5050937874796764323
+    second: ulti end_60
+  - first:
+      213: -5654577582478621968
+    second: ulti end_61
+  - first:
+      213: 7986486336479599356
+    second: ulti end_62
+  - first:
+      213: 2938685953157305541
+    second: ulti end_63
+  - first:
+      213: -7530172150212883625
+    second: ulti end_64
+  - first:
+      213: 8148743755271848472
+    second: ulti end_65
+  - first:
+      213: 7911386570591144612
+    second: ulti end_66
+  - first:
+      213: -6122754051809462160
+    second: ulti end_67
+  - first:
+      213: -6258433026908123451
+    second: ulti end_68
+  - first:
+      213: -7487280907072196889
+    second: ulti end_69
+  - first:
+      213: -323946524031189626
+    second: ulti end_70
+  - first:
+      213: 5767003041644771124
+    second: ulti end_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ulti end_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0827eb6c595d66b60800000000000000
+      internalID: 7739107848943989376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36390cdf104774270800000000000000
+      internalID: 8234677995571286883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9a9881ee8629fb0800000000000000
+      internalID: -4642532894042379870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99b8df69f8a1670800000000000000
+      internalID: 8510272324531624373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bec43195d9254c0800000000000000
+      internalID: -4300201688283944095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8a6fbed2cbad110800000000000000
+      internalID: 1286547548986058926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0240e607cc5c5d350800000000000000
+      internalID: 6040951957037646880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9477e79569e7b80800000000000000
+      internalID: -8395107344254023243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c1a0efe9769680800000000000000
+      internalID: -8748671154947768086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61df73607f3080c0800000000000000
+      internalID: -4575587469470215827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d22628d9d0831d0800000000000000
+      internalID: -3370929350938317545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308dec293b112e940800000000000000
+      internalID: 5323837172465195011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_12
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82053eedea60c390800000000000000
+      internalID: -7800116984469454196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_13
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a291914161687540800000000000000
+      internalID: 5005858056162087593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_14
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e6568a0fd50f00800000000000000
+      internalID: 1082516521748981885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_15
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1300
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22239834630eba0800000000000000
+      internalID: -6061785434748214569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d0ef73bbb76590800000000000000
+      internalID: -7680964259838109849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c676c7d7a46930800000000000000
+      internalID: 4135614903022436565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd084816d3e106b30800000000000000
+      internalID: 4278452894979883231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61595a4b7ce5bbba0800000000000000
+      internalID: -6072155460756728554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_20
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c435b8ad6943bc90800000000000000
+      internalID: -7155294647630875453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1072fb039396c0800000000000000
+      internalID: -4137801953101997123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_22
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2815a2c10614230800000000000000
+      internalID: 3621281249467925183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_23
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2600
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1339f92d32769b70800000000000000
+      internalID: 8905430920194503451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17403896d9ff28b40800000000000000
+      internalID: 5441192351362122865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64960072c7fbba0800000000000000
+      internalID: -6070997265719671095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c564eea0942070800000000000000
+      internalID: 8080742712240095812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d520176999afda1f0800000000000000
+      internalID: -1031893202037046691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_28
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56a0cb7536217860800000000000000
+      internalID: 7525838463464154717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_29
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac239cfd72fc2090800000000000000
+      internalID: -8057799010350322521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_30
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0129ef8a577150800000000000000
+      internalID: 5870260213438811051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_31
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3900
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6e9fd03aea9e30800000000000000
+      internalID: 4511175472396004114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1acec989843f70c0800000000000000
+      internalID: -4575880931057939939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5996d5588048cd0800000000000000
+      internalID: -2556909319548725763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb1362885454f70800000000000000
+      internalID: 9170812667268545431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b311f76fbe03f0800000000000000
+      internalID: -932597619671976958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_36
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59274456593c26d0800000000000000
+      internalID: -3013971007673783970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_37
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca191ef70902f470800000000000000
+      internalID: 8426807782696098506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_38
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd88a5d5f2c8b10800000000000000
+      internalID: 1985013613760929765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_39
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5200
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dd9bacc7bd63580800000000000000
+      internalID: -8847643088899154594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4724126d4fc44db90800000000000000
+      internalID: -7218059688319827340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034814dc7f8ebd410800000000000000
+      internalID: 1503051051656381488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_42
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a422516517d0e310800000000000000
+      internalID: 1432381168330876065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_43
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b99d6d7a681340800000000000000
+      internalID: 4834731286924473988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf40da7dcb2cc5c0800000000000000
+      internalID: -4193928991460012081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_45
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb619a5fc43ce30800000000000000
+      internalID: 4522543068797647647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_46
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0e0d4788587700800000000000000
+      internalID: 538277493607370472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_47
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6500
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23cdaa90350d2c0800000000000000
+      internalID: -4408932734209346835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63da144df8101700800000000000000
+      internalID: 508934233941267311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d67d84cfd400cd0800000000000000
+      internalID: -2593987639416230595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc1737946cc3660800000000000000
+      internalID: 7366981109243039221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305e298eb5846e6d0800000000000000
+      internalID: -2961600145368357629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a6c332cebec6d90800000000000000
+      internalID: -7103043112834143687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_53
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf6842abbc17dd10800000000000000
+      internalID: 2150218939299819446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_54
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a7509bc42e4fb20800000000000000
+      internalID: 3167405257097837142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_55
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7800
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c3086e86fe37ed0800000000000000
+      internalID: -2417325341145023329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409c5f23896213e50800000000000000
+      internalID: 6787248548555901188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d0e86bf24543c90800000000000000
+      internalID: -7191030141100880530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d0545bacecd450800000000000000
+      internalID: 6115022614660436155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_59
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8467b08b201a3d80800000000000000
+      internalID: -8270279986683353970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_60
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd3d17c39881640800000000000000
+      internalID: 5050937874796764323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_61
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f28971e5a7e681b0800000000000000
+      internalID: -5654577582478621968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_62
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa90614203b5de60800000000000000
+      internalID: 7986486336479599356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_63
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9100
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c41f58fd4f48c820800000000000000
+      internalID: 2938685953157305541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b850173547f7790800000000000000
+      internalID: -7530172150212883625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81249a28547261170800000000000000
+      internalID: 8148743755271848472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_66
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa81ec6b24eacd60800000000000000
+      internalID: 7911386570591144612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_67
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07830de21ab970ba0800000000000000
+      internalID: -6122754051809462160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce819412549529a0800000000000000
+      internalID: -6258433026908123451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_69
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eea5603fa5d71890800000000000000
+      internalID: -7487280907072196889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_70
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df5ec4a5c118bf0800000000000000
+      internalID: -323946524031189626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulti end_71
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 10400
+        width: 1000
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43775d326b2880050800000000000000
+      internalID: 5767003041644771124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: Cha_Tang
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

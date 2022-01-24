@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: 68ce5cf0193d861468041e7cd67f9d1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7476347934603836804
+    second: Rocket shoot_0
+  - first:
+      213: 4131399777537824700
+    second: Rocket shoot_1
+  - first:
+      213: 3805122610959089092
+    second: Rocket shoot_2
+  - first:
+      213: -7837276709904147800
+    second: Rocket shoot_3
+  - first:
+      213: 5281058116609603170
+    second: Rocket shoot_4
+  - first:
+      213: 716848789552532826
+    second: Rocket shoot_5
+  - first:
+      213: -9209910873875994256
+    second: Rocket shoot_6
+  - first:
+      213: -158772450489914157
+    second: Rocket shoot_7
+  - first:
+      213: 4320948603579590740
+    second: Rocket shoot_8
+  - first:
+      213: -6329912653994990038
+    second: Rocket shoot_9
+  - first:
+      213: 4484416105170372969
+    second: Rocket shoot_10
+  - first:
+      213: -5474459368475716870
+    second: Rocket shoot_11
+  - first:
+      213: 409278484382369638
+    second: Rocket shoot_12
+  - first:
+      213: 2653845016953434997
+    second: Rocket shoot_13
+  - first:
+      213: 8674536673598576251
+    second: Rocket shoot_14
+  - first:
+      213: 7914227904318734430
+    second: Rocket shoot_15
+  - first:
+      213: -8428922868085134942
+    second: Rocket shoot_16
+  - first:
+      213: 991138352194093712
+    second: Rocket shoot_17
+  - first:
+      213: 7965873203480878968
+    second: Rocket shoot_18
+  - first:
+      213: -923069833455749611
+    second: Rocket shoot_19
+  - first:
+      213: -216334165771176511
+    second: Rocket shoot_20
+  - first:
+      213: -159831506615239614
+    second: Rocket shoot_21
+  - first:
+      213: 6170137214341774268
+    second: Rocket shoot_22
+  - first:
+      213: 5292527176827437376
+    second: Rocket shoot_23
+  - first:
+      213: -4048908731339383051
+    second: Rocket shoot_24
+  - first:
+      213: 6583581984495741651
+    second: Rocket shoot_25
+  - first:
+      213: -8875361123602422410
+    second: Rocket shoot_26
+  - first:
+      213: -7742551251258376510
+    second: Rocket shoot_27
+  - first:
+      213: 2110292581001944491
+    second: Rocket shoot_28
+  - first:
+      213: 6681245216366975936
+    second: Rocket shoot_29
+  - first:
+      213: 8160563407543990805
+    second: Rocket shoot_30
+  - first:
+      213: -1313523400792327303
+    second: Rocket shoot_31
+  - first:
+      213: 14241805666201872
+    second: Rocket shoot_32
+  - first:
+      213: -6367377039488989302
+    second: Rocket shoot_33
+  - first:
+      213: 3000062723444167105
+    second: Rocket shoot_34
+  - first:
+      213: -1017173735630518521
+    second: Rocket shoot_35
+  - first:
+      213: -5226101652244318271
+    second: Rocket shoot_36
+  - first:
+      213: 8330111507798718718
+    second: Rocket shoot_37
+  - first:
+      213: 4909417592910092500
+    second: Rocket shoot_38
+  - first:
+      213: 5663658351877504315
+    second: Rocket shoot_39
+  - first:
+      213: -1128263680720862899
+    second: Rocket shoot_40
+  - first:
+      213: 4911727266339901297
+    second: Rocket shoot_41
+  - first:
+      213: -4521644783039036373
+    second: Rocket shoot_42
+  - first:
+      213: -5799965125277330386
+    second: Rocket shoot_43
+  - first:
+      213: 2898061778387735157
+    second: Rocket shoot_44
+  - first:
+      213: 9001500816014817290
+    second: Rocket shoot_45
+  - first:
+      213: -1193924208604884713
+    second: Rocket shoot_46
+  - first:
+      213: -7861216981765465500
+    second: Rocket shoot_47
+  - first:
+      213: 7001181797653050547
+    second: Rocket shoot_48
+  - first:
+      213: 3451697554558864589
+    second: Rocket shoot_49
+  - first:
+      213: 6558743487169684067
+    second: Rocket shoot_50
+  - first:
+      213: 3849154020204820247
+    second: Rocket shoot_51
+  - first:
+      213: -1103014141685720401
+    second: Rocket shoot_52
+  - first:
+      213: 5778947712015444679
+    second: Rocket shoot_53
+  - first:
+      213: -7354292522141111453
+    second: Rocket shoot_54
+  - first:
+      213: 872880287519529502
+    second: Rocket shoot_55
+  - first:
+      213: 2513574946070376919
+    second: Rocket shoot_56
+  - first:
+      213: 1842571173892121756
+    second: Rocket shoot_57
+  - first:
+      213: 2352449563499403930
+    second: Rocket shoot_58
+  - first:
+      213: -1333246736325447968
+    second: Rocket shoot_59
+  - first:
+      213: -7475515102905587973
+    second: Rocket shoot_60
+  - first:
+      213: -7719659755353691936
+    second: Rocket shoot_61
+  - first:
+      213: 5357162172540171531
+    second: Rocket shoot_62
+  - first:
+      213: 2992946956542616432
+    second: Rocket shoot_63
+  - first:
+      213: 3282921074205975642
+    second: Rocket shoot_64
+  - first:
+      213: -1159578876380724054
+    second: Rocket shoot_65
+  - first:
+      213: 8936645506102662699
+    second: Rocket shoot_66
+  - first:
+      213: 2327822561607285845
+    second: Rocket shoot_67
+  - first:
+      213: -6756438135314041654
+    second: Rocket shoot_68
+  - first:
+      213: 2796484207482566155
+    second: Rocket shoot_69
+  - first:
+      213: 6920566551022776821
+    second: Rocket shoot_70
+  - first:
+      213: 3233044313039486788
+    second: Rocket shoot_71
+  - first:
+      213: -5510674764941165738
+    second: Rocket shoot_72
+  - first:
+      213: 4176639531248130706
+    second: Rocket shoot_73
+  - first:
+      213: -7852486927526436220
+    second: Rocket shoot_74
+  - first:
+      213: 622393304698251858
+    second: Rocket shoot_75
+  - first:
+      213: -5650268442419193864
+    second: Rocket shoot_76
+  - first:
+      213: 494348456698714199
+    second: Rocket shoot_77
+  - first:
+      213: -4139557584428215857
+    second: Rocket shoot_78
+  - first:
+      213: -4609017377651881226
+    second: Rocket shoot_79
+  - first:
+      213: -8917882463549149681
+    second: Rocket shoot_80
+  - first:
+      213: 5093424676218053215
+    second: Rocket shoot_81
+  - first:
+      213: -6133020162279694228
+    second: Rocket shoot_82
+  - first:
+      213: -8291953831379439016
+    second: Rocket shoot_83
+  - first:
+      213: -6891742404818853395
+    second: Rocket shoot_84
+  - first:
+      213: -2956938137659300728
+    second: Rocket shoot_85
+  - first:
+      213: -5327114893136572161
+    second: Rocket shoot_86
+  - first:
+      213: 574627688539560082
+    second: Rocket shoot_87
+  - first:
+      213: 1446450724423388538
+    second: Rocket shoot_88
+  - first:
+      213: 7873296911026123496
+    second: Rocket shoot_89
+  - first:
+      213: -2536602606890383005
+    second: Rocket shoot_90
+  - first:
+      213: -3830952640268845524
+    second: Rocket shoot_91
+  - first:
+      213: 3313388480294114818
+    second: Rocket shoot_92
+  - first:
+      213: -4993476652536276847
+    second: Rocket shoot_93
+  - first:
+      213: 8576218223807096671
+    second: Rocket shoot_94
+  - first:
+      213: -2886472297286526572
+    second: Rocket shoot_95
+  - first:
+      213: 5388203130234413165
+    second: Rocket shoot_96
+  - first:
+      213: -7017846316413560899
+    second: Rocket shoot_97
+  - first:
+      213: -5747276486854730717
+    second: Rocket shoot_98
+  - first:
+      213: -7110773745325530597
+    second: Rocket shoot_99
+  - first:
+      213: 178149581760834920
+    second: Rocket shoot_100
+  - first:
+      213: 6744328209210381039
+    second: Rocket shoot_101
+  - first:
+      213: 4353931810124424971
+    second: Rocket shoot_102
+  - first:
+      213: 3940768950143946816
+    second: Rocket shoot_103
+  - first:
+      213: -4464604063916788937
+    second: Rocket shoot_104
+  - first:
+      213: 1247388074312367856
+    second: Rocket shoot_105
+  - first:
+      213: -6118434244670317941
+    second: Rocket shoot_106
+  - first:
+      213: -7332270826666957655
+    second: Rocket shoot_107
+  - first:
+      213: 8114711971759063704
+    second: Rocket shoot_108
+  - first:
+      213: -7652909004419254330
+    second: Rocket shoot_109
+  - first:
+      213: 3411628412436577315
+    second: Rocket shoot_110
+  - first:
+      213: -3348487619810881834
+    second: Rocket shoot_111
+  - first:
+      213: 3835395917706059092
+    second: Rocket shoot_112
+  - first:
+      213: -5460275363239283976
+    second: Rocket shoot_113
+  - first:
+      213: -8596245861274313413
+    second: Rocket shoot_114
+  - first:
+      213: 5277549011154495220
+    second: Rocket shoot_115
+  - first:
+      213: -7191573651804363647
+    second: Rocket shoot_116
+  - first:
+      213: -5733527984346737506
+    second: Rocket shoot_117
+  - first:
+      213: -2207858468390873946
+    second: Rocket shoot_118
+  - first:
+      213: -6599958476176459207
+    second: Rocket shoot_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocket shoot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7286b43a2dae3890800000000000000
+      internalID: -7476347934603836804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71545653ea55930800000000000000
+      internalID: 4131399777537824700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_2
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf501bad28ec430800000000000000
+      internalID: 3805122610959089092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_3
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa98b32b566c3390800000000000000
+      internalID: -7837276709904147800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_4
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26675b670661a4940800000000000000
+      internalID: 5281058116609603170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_5
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d82f21d22c2f900800000000000000
+      internalID: 716848789552532826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_6
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792d9d3bd2df2080800000000000000
+      internalID: -9209910873875994256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_7
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2e682c4debcdf0800000000000000
+      internalID: -158772450489914157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_8
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458e4119cd717fb30800000000000000
+      internalID: 4320948603579590740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_9
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26e06f7af1a728a0800000000000000
+      internalID: -6329912653994990038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_10
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96988bd20b8db3e30800000000000000
+      internalID: 4484416105170372969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_11
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af212b49530d604b0800000000000000
+      internalID: -5474459368475716870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_12
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 0
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66742d3fc9c0ea500800000000000000
+      internalID: 409278484382369638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57333747bf954d420800000000000000
+      internalID: 2653845016953434997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7611fc1525226870800000000000000
+      internalID: 8674536673598576251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_15
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50076cf85cf4dd60800000000000000
+      internalID: 7914227904318734430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_16
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a96e905f43760b80800000000000000
+      internalID: -8428922868085134942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_17
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0928bcd741b31cd00800000000000000
+      internalID: 991138352194093712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_18
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd74b39777c8e60800000000000000
+      internalID: 7965873203480878968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_19
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516bdf980e89033f0800000000000000
+      internalID: -923069833455749611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_20
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5bd60f83d6ffcf0800000000000000
+      internalID: -216334165771176511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_21
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c7840771a28cdf0800000000000000
+      internalID: -159831506615239614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_22
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb724c0b1bb0a550800000000000000
+      internalID: 6170137214341774268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_23
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04186e22d65d27940800000000000000
+      internalID: 5292527176827437376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_24
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fed98cf5f26fc7c0800000000000000
+      internalID: -4048908731339383051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_25
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 300
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa78ffee49d5b50800000000000000
+      internalID: 6583581984495741651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675ad5ee41264d480800000000000000
+      internalID: -8875361123602422410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cefc75a8aeec8490800000000000000
+      internalID: -7742551251258376510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_28
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad53ceebe3494d10800000000000000
+      internalID: 2110292581001944491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_29
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd4d2202d88bc50800000000000000
+      internalID: 6681245216366975936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_30
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51af5b1ce25204170800000000000000
+      internalID: 8160563407543990805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_31
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b3c932d6d65cde0800000000000000
+      internalID: -1313523400792327303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_32
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b1b7c8d8923000800000000000000
+      internalID: 14241805666201872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_33
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c742815882a7a0800000000000000
+      internalID: -6367377039488989302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_34
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d7c6e62d52a920800000000000000
+      internalID: 3000062723444167105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_35
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707c2ec60e542e1f0800000000000000
+      internalID: -1017173735630518521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_36
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c735e18c382977b0800000000000000
+      internalID: -5226101652244318271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_37
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef87cb118408a9370800000000000000
+      internalID: 8330111507798718718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_38
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 600
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8957f1a41c12440800000000000000
+      internalID: 4909417592910092500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d35d0834b599e40800000000000000
+      internalID: 5663658351877504315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_40
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4188a1092a9750f0800000000000000
+      internalID: -1128263680720862899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_41
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4acfdce5f92440800000000000000
+      internalID: 4911727266339901297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_42
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24c57ac604ef31c0800000000000000
+      internalID: -4521644783039036373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_43
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d036b272628fa0800000000000000
+      internalID: -5799965125277330386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_44
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57210f535dbf73820800000000000000
+      internalID: 2898061778387735157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_45
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b3f7dc41cbec70800000000000000
+      internalID: 9001500816014817290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_46
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711dd5902445e6fe0800000000000000
+      internalID: -1193924208604884713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_47
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ad99b3ec857e290800000000000000
+      internalID: -7861216981765465500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_48
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b47a0940c1392160800000000000000
+      internalID: 7001181797653050547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_49
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccc09353a4e6ef20800000000000000
+      internalID: 3451697554558864589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_50
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e7ada376550b50800000000000000
+      internalID: 6558743487169684067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_51
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 900
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717331c0031fa6530800000000000000
+      internalID: 3849154020204820247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa179e6b7e41b0f0800000000000000
+      internalID: -1103014141685720401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caac3e6352f23050800000000000000
+      internalID: 5778947712015444679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_54
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba7737aed40f990800000000000000
+      internalID: -7354292522141111453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_55
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ada0d2ff71d1c00800000000000000
+      internalID: 872880287519529502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_56
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b8d0981302e220800000000000000
+      internalID: 2513574946070376919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_57
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94e63568b0229910800000000000000
+      internalID: 1842571173892121756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_58
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a97680a6495a020800000000000000
+      internalID: 2352449563499403930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_59
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee6f5b382b5f7de0800000000000000
+      internalID: -1333246736325447968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_60
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ae32fe92a14890800000000000000
+      internalID: -7475515102905587973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_61
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a34f5a524ed490800000000000000
+      internalID: -7719659755353691936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_62
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ba6acc96785a40800000000000000
+      internalID: 5357162172540171531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_63
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0732f405665198920800000000000000
+      internalID: 2992946956542616432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_64
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1200
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54e0b5c2574f8d20800000000000000
+      internalID: 3282921074205975642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c748d72958efe0800000000000000
+      internalID: -1159578876380724054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_66
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2617da4db7550c70800000000000000
+      internalID: 8936645506102662699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_67
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cfdb459461e4020800000000000000
+      internalID: 2327822561607285845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_68
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac434b5205f4c32a0800000000000000
+      internalID: -6756438135314041654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_69
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06fcfef19b1fc620800000000000000
+      internalID: 2796484207482566155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_70
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b9268c9aca0060800000000000000
+      internalID: 6920566551022776821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_71
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb0dd5ca41edc20800000000000000
+      internalID: 3233044313039486788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_72
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bf8f28f762683b0800000000000000
+      internalID: -5510674764941165738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_73
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a16ee568766f930800000000000000
+      internalID: 4176639531248130706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_74
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48263616ebc560390800000000000000
+      internalID: -7852486927526436220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_75
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aee1db96f23a800800000000000000
+      internalID: 622393304698251858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_76
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7110cb9c63691b0800000000000000
+      internalID: -5650268442419193864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_77
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1500
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581acc5d474cd600800000000000000
+      internalID: 494348456698714199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d1ec2f465d86c0800000000000000
+      internalID: -4139557584428215857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa05795d1b7900c0800000000000000
+      internalID: -4609017377651881226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_80
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea77bf5215d3480800000000000000
+      internalID: -8917882463549149681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_81
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52af24c1ca7fa640800000000000000
+      internalID: 5093424676218053215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_82
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a20318a223eaa0800000000000000
+      internalID: -6133020162279694228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_83
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85270ba4cef0dec80800000000000000
+      internalID: -8291953831379439016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_84
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1a64dfbcc9b50a0800000000000000
+      internalID: -6891742404818853395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_85
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884230a2e68d6f6d0800000000000000
+      internalID: -2956938137659300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_86
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0d6ec9a394216b0800000000000000
+      internalID: -5327114893136572161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_87
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298118596dc79f700800000000000000
+      internalID: 574627688539560082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_88
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dcc5e2543d21410800000000000000
+      internalID: 1446450724423388538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_89
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e274e873d1934d60800000000000000
+      internalID: 7873296911026123496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_90
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1800
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36908f75e5d2cccd0800000000000000
+      internalID: -2536602606890383005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e3e65fed8b5dac0800000000000000
+      internalID: -3830952640268845524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_92
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065dca84458bfd20800000000000000
+      internalID: 3313388480294114818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_93
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1985e5be07b93bab0800000000000000
+      internalID: -4993476652536276847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_94
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e04a2909d40770800000000000000
+      internalID: 8576218223807096671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_95
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4991b322db031f7d0800000000000000
+      internalID: -2886472297286526572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_96
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602543f23eb6ca40800000000000000
+      internalID: 5388203130234413165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_97
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d2e515f99b9e90800000000000000
+      internalID: -7017846316413560899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_98
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c911f4c729d30b0800000000000000
+      internalID: -5747276486854730717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_99
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12a2bff3f4715d90800000000000000
+      internalID: -7110773745325530597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_100
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2db9c91ae87200800000000000000
+      internalID: 178149581760834920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_101
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe291a6f5caa89d50800000000000000
+      internalID: 6744328209210381039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_102
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b076db6c9e54c6c30800000000000000
+      internalID: 4353931810124424971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_103
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 2100
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04018372b7c60b630800000000000000
+      internalID: 3940768950143946816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337973224a8a02c0800000000000000
+      internalID: -4464604063916788937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_105
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe727a38dc9f4110800000000000000
+      internalID: 1247388074312367856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_106
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a17d8a874f61ba0800000000000000
+      internalID: -6118434244670317941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_107
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a46e8bf78a8e3a90800000000000000
+      internalID: -7332270826666957655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_108
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8920f437b8f3d9070800000000000000
+      internalID: 8114711971759063704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_109
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7b33daec76bc590800000000000000
+      internalID: -7652909004419254330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_110
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c79ec27f9885f20800000000000000
+      internalID: 3411628412436577315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_111
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de01663048c781d0800000000000000
+      internalID: -3348487619810881834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_112
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5adf24401a3530800000000000000
+      internalID: 3835395917706059092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_113
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23e46ac743934b0800000000000000
+      internalID: -5460275363239283976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_114
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d92dc1feff3b880800000000000000
+      internalID: -8596245861274313413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_115
+      rect:
+        serializedVersion: 2
+        x: 5445
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6e39e2dde9d3940800000000000000
+      internalID: 5277549011154495220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_116
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 2400
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1846424cdd5623c90800000000000000
+      internalID: -7191573651804363647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94504ffcaa6e60b0800000000000000
+      internalID: -5733527984346737506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_118
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 2700
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a45935bb6c1c51e0800000000000000
+      internalID: -2207858468390873946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocket shoot_119
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2700
+        width: 495
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a7c27ebbc3864a0800000000000000
+      internalID: -6599958476176459207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: effect_rocket
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

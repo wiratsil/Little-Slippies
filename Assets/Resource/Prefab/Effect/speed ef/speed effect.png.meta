@@ -1,0 +1,3020 @@
+fileFormatVersion: 2
+guid: b01f07de6e59adf45ac42771f2bb0cfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3467990996607775641
+    second: speed effect_0
+  - first:
+      213: -407212877482143506
+    second: speed effect_1
+  - first:
+      213: 8476745499285076929
+    second: speed effect_2
+  - first:
+      213: -369956108361107427
+    second: speed effect_3
+  - first:
+      213: 500329151412067126
+    second: speed effect_4
+  - first:
+      213: 8298582772316076019
+    second: speed effect_5
+  - first:
+      213: -8560416370840383618
+    second: speed effect_6
+  - first:
+      213: 3538962714651607125
+    second: speed effect_7
+  - first:
+      213: 7024501170976905400
+    second: speed effect_8
+  - first:
+      213: -717380688260294205
+    second: speed effect_9
+  - first:
+      213: 3654758154985213545
+    second: speed effect_10
+  - first:
+      213: 1194606068385521300
+    second: speed effect_11
+  - first:
+      213: 731704899481462285
+    second: speed effect_12
+  - first:
+      213: 7515313111079449035
+    second: speed effect_13
+  - first:
+      213: -8450059198531352537
+    second: speed effect_14
+  - first:
+      213: -6329015284134751687
+    second: speed effect_15
+  - first:
+      213: -6111868784227725280
+    second: speed effect_16
+  - first:
+      213: 1623530163289507383
+    second: speed effect_17
+  - first:
+      213: 5400297690057865031
+    second: speed effect_18
+  - first:
+      213: 1215842367387694269
+    second: speed effect_19
+  - first:
+      213: -5941201814854084221
+    second: speed effect_20
+  - first:
+      213: -2215579687332548873
+    second: speed effect_21
+  - first:
+      213: 5751176259248194907
+    second: speed effect_22
+  - first:
+      213: -7127462457178107434
+    second: speed effect_23
+  - first:
+      213: 1068635851470363551
+    second: speed effect_24
+  - first:
+      213: -5098708293026670470
+    second: speed effect_25
+  - first:
+      213: -5644455144218744637
+    second: speed effect_26
+  - first:
+      213: -7590939352489890668
+    second: speed effect_27
+  - first:
+      213: 4296006017560794189
+    second: speed effect_28
+  - first:
+      213: 445916247402788191
+    second: speed effect_29
+  - first:
+      213: 413882160371165932
+    second: speed effect_30
+  - first:
+      213: -5193074108088941576
+    second: speed effect_31
+  - first:
+      213: -3513712428414040616
+    second: speed effect_32
+  - first:
+      213: -8565513096976414752
+    second: speed effect_33
+  - first:
+      213: 912934063145826961
+    second: speed effect_34
+  - first:
+      213: 6726571980167581326
+    second: speed effect_35
+  - first:
+      213: -5575009345511879111
+    second: speed effect_36
+  - first:
+      213: 917579423939778645
+    second: speed effect_37
+  - first:
+      213: 3926025936088036774
+    second: speed effect_38
+  - first:
+      213: 480574984208366874
+    second: speed effect_39
+  - first:
+      213: 3766659849803555468
+    second: speed effect_40
+  - first:
+      213: 1309347901196203622
+    second: speed effect_41
+  - first:
+      213: -2064790893416643301
+    second: speed effect_42
+  - first:
+      213: 8482023323847190217
+    second: speed effect_43
+  - first:
+      213: 4985160205192228996
+    second: speed effect_44
+  - first:
+      213: -4803484615413533661
+    second: speed effect_45
+  - first:
+      213: 4319591061173222657
+    second: speed effect_46
+  - first:
+      213: 7839037930145539411
+    second: speed effect_47
+  - first:
+      213: -2188587165855691539
+    second: speed effect_48
+  - first:
+      213: 3171406670816138023
+    second: speed effect_49
+  - first:
+      213: 7782124990504931418
+    second: speed effect_50
+  - first:
+      213: 5642021989312055771
+    second: speed effect_51
+  - first:
+      213: -6909144183274177979
+    second: speed effect_52
+  - first:
+      213: 7327000823237640712
+    second: speed effect_53
+  - first:
+      213: -8972480907296691287
+    second: speed effect_54
+  - first:
+      213: -7590627297496633617
+    second: speed effect_55
+  - first:
+      213: 1562334037008087555
+    second: speed effect_56
+  - first:
+      213: 5324427865580741563
+    second: speed effect_57
+  - first:
+      213: -3452937888559234483
+    second: speed effect_58
+  - first:
+      213: 4117208989767542104
+    second: speed effect_59
+  - first:
+      213: 6304554980420164196
+    second: speed effect_60
+  - first:
+      213: -318231881921431682
+    second: speed effect_61
+  - first:
+      213: 6002710398940276225
+    second: speed effect_62
+  - first:
+      213: -3832115140050440865
+    second: speed effect_63
+  - first:
+      213: 1769725192253180382
+    second: speed effect_64
+  - first:
+      213: 700817237244712108
+    second: speed effect_65
+  - first:
+      213: 2856013074011710402
+    second: speed effect_66
+  - first:
+      213: 6779562103425741081
+    second: speed effect_67
+  - first:
+      213: -402470062416716778
+    second: speed effect_68
+  - first:
+      213: 2263502689527750948
+    second: speed effect_69
+  - first:
+      213: -5657781556075205510
+    second: speed effect_70
+  - first:
+      213: 1682080794654263865
+    second: speed effect_71
+  - first:
+      213: -7498801231730797823
+    second: speed effect_72
+  - first:
+      213: 569317815192484482
+    second: speed effect_73
+  - first:
+      213: -973807323427481839
+    second: speed effect_74
+  - first:
+      213: 6084755403417132953
+    second: speed effect_75
+  - first:
+      213: -1248335154491397456
+    second: speed effect_76
+  - first:
+      213: -6891472687132896071
+    second: speed effect_77
+  - first:
+      213: 143798114487695921
+    second: speed effect_78
+  - first:
+      213: -7507551378776431790
+    second: speed effect_79
+  - first:
+      213: 8994503906879956059
+    second: speed effect_80
+  - first:
+      213: -7969263712156796553
+    second: speed effect_81
+  - first:
+      213: -5337043870805225685
+    second: speed effect_82
+  - first:
+      213: 3947260149859870418
+    second: speed effect_83
+  - first:
+      213: -2183782837460844864
+    second: speed effect_84
+  - first:
+      213: -8877390099762523494
+    second: speed effect_85
+  - first:
+      213: 4330086007866592669
+    second: speed effect_86
+  - first:
+      213: 5229477236209969360
+    second: speed effect_87
+  - first:
+      213: -1369686912446470985
+    second: speed effect_88
+  - first:
+      213: 96494023145622201
+    second: speed effect_89
+  - first:
+      213: 1704870980489491571
+    second: speed effect_90
+  - first:
+      213: -5896703217498095255
+    second: speed effect_91
+  - first:
+      213: -2353755902819633197
+    second: speed effect_92
+  - first:
+      213: 8094714714981720750
+    second: speed effect_93
+  - first:
+      213: 4220751377349255060
+    second: speed effect_94
+  - first:
+      213: 2489578265513199635
+    second: speed effect_95
+  - first:
+      213: 5981849512194107754
+    second: speed effect_96
+  - first:
+      213: -7988390142480353811
+    second: speed effect_97
+  - first:
+      213: -1022217136049139783
+    second: speed effect_98
+  - first:
+      213: 2931212856595996396
+    second: speed effect_99
+  - first:
+      213: -4764654538928095469
+    second: speed effect_100
+  - first:
+      213: 3967676581160716388
+    second: speed effect_101
+  - first:
+      213: 878720875247019435
+    second: speed effect_102
+  - first:
+      213: -6850132073193619859
+    second: speed effect_103
+  - first:
+      213: -3052866554595281110
+    second: speed effect_104
+  - first:
+      213: -5054963703063143183
+    second: speed effect_105
+  - first:
+      213: 6345029080560949571
+    second: speed effect_106
+  - first:
+      213: 5073952821302826939
+    second: speed effect_107
+  - first:
+      213: 2795695477740603474
+    second: speed effect_108
+  - first:
+      213: -6265778015601193736
+    second: speed effect_109
+  - first:
+      213: -2733609428091093749
+    second: speed effect_110
+  - first:
+      213: 6798606373686313968
+    second: speed effect_111
+  - first:
+      213: 8380831789417290083
+    second: speed effect_112
+  - first:
+      213: -8087365972500032214
+    second: speed effect_113
+  - first:
+      213: 7021112950046697519
+    second: speed effect_114
+  - first:
+      213: -295877039900203645
+    second: speed effect_115
+  - first:
+      213: 8299412033206355428
+    second: speed effect_116
+  - first:
+      213: -6492822840713514125
+    second: speed effect_117
+  - first:
+      213: 1111949278216768190
+    second: speed effect_118
+  - first:
+      213: 4687032511742858066
+    second: speed effect_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speed effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cc0f210983fdfc0800000000000000
+      internalID: -3467990996607775641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 0
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee056b1ab0a495af0800000000000000
+      internalID: -407212877482143506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_2
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb3740be1373a570800000000000000
+      internalID: 8476745499285076929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_3
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 0
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1876aa21e6addaf0800000000000000
+      internalID: -369956108361107427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_4
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 0
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b50bc56b681f600800000000000000
+      internalID: 500329151412067126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7731b401d7a2370800000000000000
+      internalID: 8298582772316076019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fce9e6aaa433980800000000000000
+      internalID: -8560416370840383618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_7
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5504928b6dbec1130800000000000000
+      internalID: 3538962714651607125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_8
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d46cf89a0c7160800000000000000
+      internalID: 7024501170976905400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_9
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9158b901a5b06f0800000000000000
+      internalID: -717380688260294205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e0bdf9d2f48b230800000000000000
+      internalID: 3654758154985213545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_11
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e15a0d3e7149010800000000000000
+      internalID: 1194606068385521300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_12
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d066106bab9872a00800000000000000
+      internalID: 731704899481462285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_13
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f9b9e471cb4860800000000000000
+      internalID: 7515313111079449035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_14
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7284484edeb5bba80800000000000000
+      internalID: -8450059198531352537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325123b122da28a0800000000000000
+      internalID: -6329015284134751687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_16
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020de4a09b74e2ba0800000000000000
+      internalID: -6111868784227725280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_17
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736c009e410f78610800000000000000
+      internalID: 1623530163289507383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_18
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f2491326b1fa40800000000000000
+      internalID: 5400297690057865031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_19
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4730bf03a8fd010800000000000000
+      internalID: 1215842367387694269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38957be5d6c9c8da0800000000000000
+      internalID: -5941201814854084221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee8f4530ea041e0800000000000000
+      internalID: -2215579687332548873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_22
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550625365840df40800000000000000
+      internalID: 5751176259248194907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_23
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d157f978aa261d90800000000000000
+      internalID: -7127462457178107434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_24
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b532125ae84de00800000000000000
+      internalID: 1068635851470363551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a789ec452dfbd39b0800000000000000
+      internalID: -5098708293026670470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82732b3fddaa1b0800000000000000
+      internalID: -5644455144218744637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_27
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c6e4f90e097a690800000000000000
+      internalID: -7590939352489890668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_28
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d6a536ba7e9b30800000000000000
+      internalID: 4296006017560794189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_29
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b406e676303600800000000000000
+      internalID: 445916247402788191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea6bcbc1a76eb500800000000000000
+      internalID: 413882160371165932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3841fdc9e7ee7b0800000000000000
+      internalID: -5193074108088941576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_32
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5818da929cc3fc0800000000000000
+      internalID: -3513712428414040616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_33
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c3c7683f212980800000000000000
+      internalID: -8565513096976414752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_34
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a392981b46bac00800000000000000
+      internalID: 912934063145826961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e0cf9b395995d50800000000000000
+      internalID: 6726571980167581326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_36
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e0845b98691a2b0800000000000000
+      internalID: -5575009345511879111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_37
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5585321ef95ebbc00800000000000000
+      internalID: 917579423939778645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_38
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57f73b9cb0c7630800000000000000
+      internalID: 3926025936088036774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_39
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dbda5e6685ba600800000000000000
+      internalID: 480574984208366874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8264414d2dd54430800000000000000
+      internalID: 3766659849803555468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_41
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f33a9afcbb2210800000000000000
+      internalID: 1309347901196203622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_42
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1580764f936853e0800000000000000
+      internalID: -2064790893416643301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_43
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c66d7af54336b570800000000000000
+      internalID: 8482023323847190217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_44
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48075ea4bc8de2540800000000000000
+      internalID: 4985160205192228996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f8363138965db0800000000000000
+      internalID: -4803484615413533661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_46
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dbe281f2542fb30800000000000000
+      internalID: 4319591061173222657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_47
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3556327e67bd9cc60800000000000000
+      internalID: 7839037930145539411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_48
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec413b719390a1e0800000000000000
+      internalID: -2188587165855691539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_49
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723dc447099130c20800000000000000
+      internalID: 3171406670816138023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a509cb88279affb60800000000000000
+      internalID: 7782124990504931418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_51
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd943e74b1d7c4e40800000000000000
+      internalID: 5642021989312055771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_52
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7cf5b8f9cd10a0800000000000000
+      internalID: -6909144183274177979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_53
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802031abd6cbea560800000000000000
+      internalID: 7327000823237640712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_54
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab2b9e27285b7380800000000000000
+      internalID: -8972480907296691287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee645690bca8a690800000000000000
+      internalID: -7590627297496633617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_56
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7e5077868ea510800000000000000
+      internalID: 1562334037008087555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_57
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a1280fea24e940800000000000000
+      internalID: 5324427865580741563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_58
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4280f8e843b410d0800000000000000
+      internalID: -3452937888559234483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_59
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855a32523c3432930800000000000000
+      internalID: 4117208989767542104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1dda0a574e7750800000000000000
+      internalID: 6304554980420164196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_61
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e777ed91ac9659bf0800000000000000
+      internalID: -318231881921431682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_62
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e06add49ed4350800000000000000
+      internalID: 6002710398940276225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_63
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da5e2659791dac0800000000000000
+      internalID: -3832115140050440865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_64
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed98f4a9fa35f8810800000000000000
+      internalID: 1769725192253180382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4117e609dc9b900800000000000000
+      internalID: 700817237244712108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_66
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e65e42c892a720800000000000000
+      internalID: 2856013074011710402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_67
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911346b30d7d51e50800000000000000
+      internalID: 6779562103425741081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_68
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c1ce05c932a6af0800000000000000
+      internalID: -402470062416716778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_69
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421617d14b3996f10800000000000000
+      internalID: 2263502689527750948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6165a6a58b71b0800000000000000
+      internalID: -5657781556075205510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_71
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93acfd81293f75710800000000000000
+      internalID: 1682080794654263865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_72
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039c659208eee790800000000000000
+      internalID: -7498801231730797823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_73
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 2800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a79da598f96e700800000000000000
+      internalID: 569317815192484482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_74
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1175e6716675c72f0800000000000000
+      internalID: -973807323427481839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f11dd0dc4617450800000000000000
+      internalID: 6084755403417132953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_76
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba68eb7ac50daee0800000000000000
+      internalID: -1248335154491397456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_77
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b413288a129c50a0800000000000000
+      internalID: -6891472687132896071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_78
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af86d8f9fdef100800000000000000
+      internalID: 143798114487695921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_79
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25369073cc1dfc790800000000000000
+      internalID: -7507551378776431790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54617cf5a5e2dc70800000000000000
+      internalID: 8994503906879956059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_81
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779bb7370ec776190800000000000000
+      internalID: -7969263712156796553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_82
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8af950e20fe5b0800000000000000
+      internalID: -5337043870805225685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_83
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e37c513c77c630800000000000000
+      internalID: 3947260149859870418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_84
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce3d8a5415a1b1e0800000000000000
+      internalID: -2183782837460844864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92d51b1dbc2dc480800000000000000
+      internalID: -8877390099762523494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_86
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d07c9484e871c30800000000000000
+      internalID: 4330086007866592669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_87
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86941e6d5d29840800000000000000
+      internalID: 5229477236209969360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_88
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b460229205edfce0800000000000000
+      internalID: -1369686912446470985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_89
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba0b848dc0d65100800000000000000
+      internalID: 96494023145622201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b2fbbf1be8a710800000000000000
+      internalID: 1704870980489491571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_91
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9618f1f6aa3ba2ea0800000000000000
+      internalID: -5896703217498095255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_92
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7f4742a77c55fd0800000000000000
+      internalID: -2353755902819633197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_93
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ec984524365070800000000000000
+      internalID: 8094714714981720750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_94
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9424e30f139a30800000000000000
+      internalID: 4220751377349255060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318827cfd32cc8220800000000000000
+      internalID: 2489578265513199635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_96
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a696c2a207cc30350800000000000000
+      internalID: 5981849512194107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_97
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 3800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f93e5d79832190800000000000000
+      internalID: -7988390142480353811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_98
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 3800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf49724eea50d1f0800000000000000
+      internalID: -1022217136049139783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_99
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3800
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee56761092cda820800000000000000
+      internalID: 2931212856595996396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ffcb9e0fb80edb0800000000000000
+      internalID: -4764654538928095469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_101
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46888b334d4001730800000000000000
+      internalID: 3967676581160716388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_102
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a1d9faf7d13c00800000000000000
+      internalID: 878720875247019435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_103
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb8c84c217fe0a0800000000000000
+      internalID: -6850132073193619859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_104
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 4000
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a277daa1b0a02a5d0800000000000000
+      internalID: -3052866554595281110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9d6e5b4929d9b0800000000000000
+      internalID: -5054963703063143183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_106
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349db54d4521e0850800000000000000
+      internalID: 6345029080560949571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_107
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb798d0453d4a6640800000000000000
+      internalID: 5073952821302826939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_108
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25805ea893e4cc620800000000000000
+      internalID: 2795695477740603474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_109
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 4200
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc83a2a71c7b09a0800000000000000
+      internalID: -6265778015601193736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db8fb55b4401ad0800000000000000
+      internalID: -2733609428091093749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_111
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3874fe970895e50800000000000000
+      internalID: 6798606373686313968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_112
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369d482eb12be4470800000000000000
+      internalID: 8380831789417290083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_113
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25dd882f77e3cf80800000000000000
+      internalID: -8087365972500032214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_114
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 4400
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ad635701007160800000000000000
+      internalID: 7021112950046697519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385ed8b5665d4ebf0800000000000000
+      internalID: -295877039900203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_116
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e50ed3a54f6d2370800000000000000
+      internalID: 8299412033206355428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_117
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 4600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737abdd60cd4e5a0800000000000000
+      internalID: -6492822840713514125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_118
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebacc582aff6e6f00800000000000000
+      internalID: 1111949278216768190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speed effect_119
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 4600
+        width: 746
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d3298c3fab0140800000000000000
+      internalID: 4687032511742858066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
