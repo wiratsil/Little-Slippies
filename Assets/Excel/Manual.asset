@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0c062dfc09056a488df1f711ac0e641, type: 3}
+  m_Name: Manual
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Excel/Little Slippies Story.xlsx
+  WorksheetName: Manual
+  dataArray:
+  - charactername: "\u0E0A\u0E37\u0E48\u0E2D\u0E15\u0E31\u0E27\u0E25\u0E30\u0E04\u0E23
+      1-X"
+    position: "\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E2A\u0E19\u0E17\u0E19\u0E32
+      1 \u0E1D\u0E31\u0E48\u0E07\u0E0B\u0E49\u0E32\u0E22"
+    type: "\u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E2A\u0E19\u0E17\u0E19\u0E32
+      2 \u0E1D\u0E31\u0E48\u0E07\u0E02\u0E27\u0E32"
+    emotion: "\u0E09\u0E32\u0E01 1-X"
+    dialogue: "\u0E1A\u0E17\u0E2A\u0E19\u0E17\u0E19\u0E32"
+  - charactername: Anda = 1
+    position: "0 = \u0E44\u0E21\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E19\u0E09\u0E32\u0E01"
+    type: "0 = \u0E44\u0E21\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E19\u0E09\u0E32\u0E01"
+    emotion: "\u0E40\u0E21\u0E37\u0E2D\u0E07\u0E40\u0E23\u0E37\u0E2D\u0E2A\u0E38\u0E2A\u0E32\u0E19
+      = 1"
+    dialogue: 43891
+  - charactername: Ava = 2
+    position: "x = \u0E15\u0E31\u0E27\u0E25\u0E30\u0E04\u0E23"
+    type: "x = \u0E15\u0E31\u0E27\u0E25\u0E30\u0E04\u0E23"
+    emotion: "\u0E20\u0E32\u0E22\u0E43\u0E19\u0E2B\u0E49\u0E2D\u0E07\u0E27\u0E34\u0E08\u0E31\u0E22
+      = 2"
+    dialogue: 43892
+  - charactername: Tangtang = 3
+    position: 
+    type: 
+    emotion: "\u0E2B\u0E19\u0E49\u0E32\u0E2B\u0E49\u0E2D\u0E07\u0E27\u0E34\u0E08\u0E31\u0E22
+      = 3"
+    dialogue: 43894
+  - charactername: Octa = 4
+    position: 
+    type: 
+    emotion: "\u0E16\u0E49\u0E33\u0E25\u0E32\u0E22\u0E14\u0E32\u0E27 Vanouver = 4"
+    dialogue: 
+  - charactername: Stingray doctor = 5
+    position: 
+    type: 
+    emotion: "\u0E25\u0E32\u0E19\u0E01\u0E27\u0E49\u0E32\u0E07\u0E41\u0E16\u0E27
+      Vanouver = 5"
+    dialogue: 
+  - charactername: ray child =6
+    position: 
+    type: 
+    emotion: "\u0E25\u0E32\u0E19\u0E01\u0E27\u0E49\u0E32\u0E07\u0E41\u0E16\u0E27
+      Vanouver 2 = 6"
+    dialogue: 
+  - charactername: aunty = 7
+    position: 
+    type: 
+    emotion: "\u0E1B\u0E32\u0E01\u0E40\u0E2B\u0E27\u0E41\u0E25\u0E30\u0E17\u0E38\u0E48\u0E07\u0E2B\u0E0D\u0E49\u0E32\u0E2A\u0E32\u0E2B\u0E23\u0E48\u0E32\u0E22\u0E44\u0E08\u0E41\u0E2D\u0E19\u0E14\u0E4C\u0E2A\u0E35\u0E23\u0E38\u0E49\u0E07
+      Vanouver  = 7"
+    dialogue: 
+  - charactername: Gappy = 8
+    position: 
+    type: 
+    emotion: "\u0E43\u0E19\u0E22\u0E32\u0E19 Little Slippies = 8"
+    dialogue: 
+  - charactername: Chabubu = 9
+    position: 
+    type: 
+    emotion: "\u0E13 \u0E1B\u0E32\u0E01\u0E17\u0E32\u0E07\u0E40\u0E02\u0E49\u0E32\u0E2A\u0E39\u0E48\u0E01\u0E2D\u0E07\u0E20\u0E39\u0E40\u0E02\u0E32
+      Hawaii =9"
+    dialogue: 
+  - charactername: Turtis = 10
+    position: 
+    type: 
+    emotion: "\u0E43\u0E19\u0E16\u0E49\u0E33\u0E40\u0E15\u0E48\u0E32: \u0E25\u0E32\u0E19\u0E08\u0E2D\u0E14\u0E22\u0E32\u0E19
+      Hawaii = 10"
+    dialogue: 
+  - charactername: Octie = 11
+    position: 
+    type: 
+    emotion: "\u0E43\u0E19\u0E16\u0E49\u0E33\u0E40\u0E15\u0E48\u0E32: \u0E2A\u0E27\u0E19\u0E2A\u0E32\u0E2B\u0E23\u0E48\u0E32\u0E22
+      Hawaii = 11"
+    dialogue: 
+  - charactername: Billy = 12
+    position: 
+    type: 
+    emotion: "\u0E1B\u0E32\u0E01\u0E17\u0E32\u0E07\u0E40\u0E02\u0E49\u0E32\u0E16\u0E49\u0E33\u0E40\u0E15\u0E48\u0E32
+      : Hawaii = 12"
+    dialogue: 
+  - charactername: Durbo = 13
+    position: 
+    type: 
+    emotion: "\u0E43\u0E19\u0E22\u0E32\u0E19\u0E2D\u0E4A\u0E2D\u0E01\u0E15\u0E49\u0E32,
+      \u0E43\u0E19\u0E22\u0E32\u0E19\u0E2D\u0E4A\u0E2D\u0E01\u0E15\u0E35\u0E49 =
+      13"
+    dialogue: 
+  - charactername: Tutorial = 14
+    position: 
+    type: 
+    emotion: "\u0E20\u0E39\u0E40\u0E02\u0E32\u0E19\u0E49\u0E33\u0E41\u0E02\u0E47\u0E07\u0E22\u0E49\u0E2D\u0E22
+      : Alaska = 14"
+    dialogue: 
+  - charactername: Joystick = 15
+    position: 
+    type: 
+    emotion: "\u0E25\u0E32\u0E19\u0E01\u0E32\u0E23\u0E41\u0E02\u0E48\u0E07\u0E02\u0E31\u0E19
+      : Alaska =15"
+    dialogue: 
+  - charactername: Boost = 16
+    position: 
+    type: 
+    emotion: "\u0E14\u0E49\u0E32\u0E19\u0E2B\u0E25\u0E31\u0E07\u0E2D\u0E31\u0E12\u0E08\u0E31\u0E19\u0E17\u0E23\u0E4C
+      : Alaska = 16"
+    dialogue: 
+  - charactername: Boost = 17
+    position: 
+    type: 
+    emotion: "\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E41\u0E02\u0E48\u0E07\u0E02\u0E31\u0E19\u0E43\u0E19\u0E1B\u0E32\u0E01\u0E17\u0E32\u0E07\u0E40\u0E02\u0E49\u0E32\u0E02\u0E2D\u0E07\u0E16\u0E49\u0E33\u0E19\u0E49\u0E33\u0E41\u0E02\u0E47\u0E07
+      Vanouver = 17"
+    dialogue: 
+  - charactername: Brake = 18
+    position: 
+    type: 
+    emotion: 
+    dialogue: 
+  - charactername: Ultimate = 19
+    position: 
+    type: 
+    emotion: 
+    dialogue: 
+  - charactername: Bomb = 20
+    position: 
+    type: 
+    emotion: 
+    dialogue: 
+  - charactername: Plastic bag = 21
+    position: 
+    type: 
+    emotion: 
+    dialogue: 
+  - charactername: Attack = 22
+    position: 
+    type: 
+    emotion: 
+    dialogue: 
